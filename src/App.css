@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgba(33, 37, 41, 1);
+}
